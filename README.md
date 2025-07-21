@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Apurva Dongale
 
-<!--
-**Apurva0805/Apurva0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | 📊 Excel • SQL • Power BI • Python  
+🧠 Passionate about turning data into actionable insights  
+📍 Pune, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** SQL, Python (Pandas, NumPy)
+- **Tools:** Power BI, Excel, Jupyter Notebook
+- **Soft Skills:** Communication, Storytelling, Self-learning
+
+---
+
+## 📁 Projects
+
+- 🟡 [Supply Chain Analytics Dashboard](https://github.com/Apurva0805/Supply-Chain-Analytics)  
+  ➤ Power BI dashboard analyzing delayed orders and regional performance  
+
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn] https://www.linkedin.com/in/apurva-dongale-11a1302a3/?originalSubdomain=in
+
+[![Gmail]- apurvacd1999@gmail.com
