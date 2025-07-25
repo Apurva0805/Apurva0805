@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Apurva Dongale
+# 👋 Hi, I'm Apurva Shivudkar
 
 🎯 Aspiring Data Analyst | 📊 Excel • SQL • Power BI • Python  
 🧠 Passionate about turning data into actionable insights  
