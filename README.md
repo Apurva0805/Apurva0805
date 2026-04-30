@@ -1,43 +1,95 @@
-# Hi, I'm Apurva Shivudkar 👋
+# 👋 Hi, I'm Apurva Shivudkar
 
-📊 Aspiring Data Analyst | SQL | Power BI | Excel
-
-I am a detail-oriented professional with 3 years of experience in software testing, now transitioning into data analytics. I enjoy transforming raw data into meaningful insights that drive business decisions.
-
----
-
-## 🚀 Skills
-
-* SQL (Joins, Aggregations, Window Functions)
-* Power BI (Dashboards, DAX)
-* Excel (Data Cleaning, Pivot Tables)
-* Python (Basics for Data Analysis)
+🚀 **Automation Tester | QA Engineer | Open to Opportunities**
+📍 Pune, India
 
 ---
 
-## 📂 Featured Projects
+## 👨‍💻 About Me
 
-### 🍕 Pizza Sales Analysis
+Automation-focused QA Engineer with hands-on experience in manual, API, and web automation testing. I build scalable test solutions and continuously improve testing efficiency using modern tools and frameworks.
 
-* Analyzed sales data using SQL to derive business insights
-* Built an interactive Power BI dashboard
-* Identified trends, top products, and customer behavior
-
-🔗 Project Link: https://github.com/Apurva0805/Sales-Analytics-Dashboard-Pizza-Orders-
----
-
-## 📊 What I’m Working On
-
-* Building end-to-end data analytics projects
-* Improving SQL & Power BI skills
-* Preparing for Data Analyst roles
+* Strong understanding of **SDLC & STLC**
+* Experience in **real-time project scenarios**
+* Focused on **quality, performance, and reliability**
+* Currently preparing for **Automation Testing roles**
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Skills & Technologies
 
-[![LinkedIn]- https://www.linkedin.com/in/apurva-shivudkar-11a1302a3/
+### 🔹 Testing Expertise
 
-[![Gmail]- apurvacd1999@gmail.com
+* Functional Testing
+* Regression Testing
+* Integration Testing
+* UAT Testing
+* Test Case Design
 
-⭐ Always open to learning and collaboration!
+### 🔹 Automation Tools
+
+* TestNG Framework
+* Page Object Model (POM)
+* Playwright (Basics)
+
+### 🔹 API Testing
+
+* Postman (Collections, Scripts, Assertions)
+* REST API Validation
+
+### 🔹 Programming & Database
+
+* Java (OOPs)
+* SQL (Joins, Queries, Data Validation)
+
+### 🔹 Tools & Platforms
+
+* JIRA (Bug Tracking & Agile Boards)
+* GitHub (Version Control)
+* IntelliJ IDEA
+
+---
+
+## 📂 Projects
+
+### 🔸 API Automation Framework (Postman)
+
+* Designed and executed API test collections
+* Used environment variables for dynamic data handling
+* Implemented test scripts using JavaScript
+* Validated API responses with assertions
+* Generated execution reports
+
+### 🔸 Web Automation Framework (Playwright + TestNG)
+
+* Developed automation scripts using Playwright
+* Implemented Page Object Model for maintainability
+* Covered critical scenarios like login, forms, validations
+* Integrated TestNG for execution and reporting
+
+---
+
+## 📊 Currently Learning
+
+* Advanced Playwright Framework (Hybrid Framework)
+* Rest Assured for API Automation
+* CI/CD Integration using Jenkins
+* Agile & Scrum Methodology
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [apurvacd1999@gmail.com](mailto:apurvacd1999@gmail.com)
+* 🔗 LinkedIn: [www.linkedin.com/in/apurva-shivudkar-11a1302a3](http://www.linkedin.com/in/apurva-shivudkar-11a1302a3)
+* 💻 GitHub: [https://github.com/Apurva0805](https://github.com/Apurva0805)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy finding bugs before users do 😄
+
+---
+
+⭐ *Actively looking for opportunities in Automation Testing | Let’s connect!*
