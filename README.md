@@ -49,6 +49,17 @@ Automation-focused QA Engineer with hands-on experience in manual, API, and web 
 * IntelliJ IDEA
 
 ---
+💼 Professional Experience
+🔹 QA Engineer | Current Organization
+Designed and executed end-to-end test scenarios covering functional, regression, and integration testing
+Created and maintained detailed test cases and test data based on business requirements and GAP analysis
+Performed API testing using Postman, including request validation, response verification, and automation via collections
+Developed and executed automation scripts using Selenium WebDriver with TestNG for critical workflows
+Identified, logged, and tracked defects using JIRA, ensuring proper severity and priority classification
+Collaborated with developers, BA, and stakeholders in an Agile/Scrum environment for faster issue resolution
+Participated in UAT support, ensuring business requirements are validated before production release
+
+---
 
 ## 📂 Projects
 
