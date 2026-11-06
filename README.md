@@ -1,106 +1,179 @@
-# 👋 Hi, I'm Apurva Shivudkar
+# Hi, I'm Apurva Shivudkar 👋
 
-🚀 **Automation Tester | QA Engineer | Open to Opportunities**
-📍 Pune, India
+### Software Test Engineer | Healthcare QA | Java | Playwright | API Testing | AI-Assisted QA
 
----
+I'm a Software Test Engineer with **3+ years of experience in Manual Testing and Healthcare Domain QA**, working with Healthcare Information Systems (HIS).
 
-## 👨‍💻 About Me
+I have hands-on project experience in **Java, Playwright, TestNG, Maven, REST Assured, Postman and SQL** through independent QA automation and testing projects.
 
-Automation-focused QA Engineer with hands-on experience in manual, API, and web automation testing. I build scalable test solutions and continuously improve testing efficiency using modern tools and frameworks.
-
-* Strong understanding of **SDLC & STLC**
-* Experience in **real-time project scenarios**
-* Focused on **quality, performance, and reliability**
-* Currently preparing for **Automation Testing roles**
+I'm passionate about software quality, test automation, healthcare technology and continuously learning modern QA engineering practices.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👩‍💻 About Me
 
-### 🔹 Testing Expertise
-
-* Functional Testing
-* Regression Testing
-* Integration Testing
-* UAT Testing
-* Test Case Design
-
-### 🔹 Automation Tools
-
-* TestNG Framework
-* Page Object Model (POM)
-* Playwright (Basics)
-
-### 🔹 API Testing
-
-* Postman (Collections, Scripts, Assertions)
-* REST API Validation
-
-### 🔹 Programming & Database
-
-* Java (OOPs)
-* SQL (Joins, Queries, Data Validation)
-
-### 🔹 Tools & Platforms
-
-* JIRA (Bug Tracking & Agile Boards)
-* GitHub (Version Control)
-* IntelliJ IDEA
-
----
-💼 Professional Experience
-🔹 QA Engineer | Current Organization
-Designed and executed end-to-end test scenarios covering functional, regression, and integration testing
-Created and maintained detailed test cases and test data based on business requirements and GAP analysis
-Performed API testing using Postman, including request validation, response verification, and automation via collections
-Developed and executed automation scripts using Selenium WebDriver with TestNG for critical workflows
-Identified, logged, and tracked defects using JIRA, ensuring proper severity and priority classification
-Collaborated with developers, BA, and stakeholders in an Agile/Scrum environment for faster issue resolution
-Participated in UAT support, ensuring business requirements are validated before production release
+- 💼 Software Test Engineer with 3+ years of professional QA experience.
+- 🏥 Experience in Healthcare Information Systems (HIS) testing.
+- 🧪 Skilled in Functional, Regression, Integration, System, End-to-End and UAT testing.
+- 🤖 Building hands-on automation projects using Java and Playwright.
+- 🔗 Practicing REST API testing with Postman and REST Assured.
+- 🗄️ Practicing SQL queries and healthcare data validation.
+- 🧠 Exploring AI-assisted test case generation and automation script review.
+- 🌏 Supported healthcare implementation and end-user training at Thomson Hospital, Malaysia.
+- 📍 Based in Pune, Maharashtra, India.
 
 ---
 
-## 📂 Projects
+## 🛠️ Technical Skills
 
-### 🔸 API Automation Framework (Postman)
+### Manual Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke and Sanity Testing
+- Integration Testing
+- System Testing
+- End-to-End Testing
+- Exploratory Testing
+- User Acceptance Testing (UAT)
 
-* Designed and executed API test collections
-* Used environment variables for dynamic data handling
-* Implemented test scripts using JavaScript
-* Validated API responses with assertions
-* Generated execution reports
+### Automation Testing
+- Java
+- Playwright
+- TestNG
+- Maven
+- Page Object Model (POM)
+- Web UI Automation
+- Locators and Assertions
+- Positive and Negative Test Scenarios
 
-### 🔸 Web Automation Framework (Playwright + TestNG)
+### API Testing
+- Postman
+- REST Assured
+- REST API Testing
+- GET, POST, PUT and DELETE
+- JSON Request and Response Validation
+- HTTP Status Code Validation
 
-* Developed automation scripts using Playwright
-* Implemented Page Object Model for maintainability
-* Covered critical scenarios like login, forms, validations
-* Integrated TestNG for execution and reporting
+### Database Testing
+- SQL Fundamentals
+- MySQL
+- SELECT, WHERE, ORDER BY and GROUP BY
+- INNER JOIN and LEFT JOIN
+- Subqueries
+- Healthcare Data Validation
+
+### AI-Assisted QA
+- Prompt Engineering
+- AI-Generated Test Cases
+- Test Scenario Review
+- Automation Script Review
+- AI Output Validation
+- PromptFoo Evaluation Configuration
+- Human-in-the-Loop Testing
+
+### Tools and Technologies
+- Git and GitHub
+- GitHub Actions Workflow Configuration
+- Apache POI
+- Microsoft Excel
+- Mantis
+- Test Management System (TMS)
 
 ---
 
-## 📊 Currently Learning
+## 🚀 Featured Projects
 
-* Advanced Playwright Framework (Hybrid Framework)
-* Rest Assured for API Automation
-* CI/CD Integration using Jenkins
-* Agile & Scrum Methodology
+### 1. Healthcare QA Automation Framework
+
+**Technologies:** Java | Playwright | TestNG | Maven | POM
+
+🔗 [View Healthcare QA Automation Repository](https://github.com/Apurva0805/healthcare-qa-automation)
+
+- Developed an independent Java-based Playwright automation framework.
+- Implemented Page Object Model (POM) for reusable test components.
+- Automated patient registration workflows.
+- Covered positive and negative registration scenarios.
+- Implemented locator strategies, assertions and validation methods.
+- Practiced test execution and reporting using TestNG and Maven.
+- Latest confirmed local execution: **35 tests passed, 0 failures, 0 errors**.
+
+### 2. API Testing Practice
+
+**Technologies:** Java | REST Assured | Postman | REST APIs
+
+- Practiced REST API testing using REST Assured.
+- Implemented GET, POST, PUT and DELETE request scenarios.
+- Validated response status codes and JSON response data.
+- Practiced API validation using sample REST API endpoints.
+
+### 3. SQL and Healthcare Database Testing
+
+**Technologies:** SQL | MySQL
+
+- Practiced SQL queries for healthcare-related data validation.
+- Worked with patient and billing data examples.
+- Practiced filtering, sorting, grouping and joins.
+- Explored database validation scenarios relevant to healthcare QA.
+
+### 4. AI-Assisted Healthcare QA
+
+**Technologies:** AI Prompt Engineering | PromptFoo | Test Case Design
+
+- Created reusable prompts for healthcare requirement analysis.
+- Generated positive and negative patient registration test scenarios.
+- Reviewed AI-generated test cases for coverage and expected results.
+- Prepared AI review documentation and validation checklists.
+- Created PromptFoo evaluation configuration for exploring AI output quality.
 
 ---
 
-## 📫 Connect With Me
+## 🏥 Professional Experience
 
-* 📧 Email: [apurvacd1999@gmail.com](mailto:apurvacd1999@gmail.com)
-* 🔗 LinkedIn: [www.linkedin.com/in/apurva-shivudkar-11a1302a3](http://www.linkedin.com/in/apurva-shivudkar-11a1302a3)
-* 💻 GitHub: [https://github.com/Apurva0805](https://github.com/Apurva0805)
+### Software Test Engineer
+**Sancy Medsoft Pvt. Ltd. | Pune, India**
+
+**June 2023 – Present**
+
+- Perform manual and functional testing of Healthcare Information Systems (HIS).
+- Design and execute test scenarios and test cases based on business requirements.
+- Test Patient Registration, OPD, IPD, Billing, Insurance, Pharmacy, Laboratory and Financial modules.
+- Perform regression, integration, end-to-end and UAT testing.
+- Validate healthcare workflows, business rules, patient data and billing calculations.
+- Report, track and retest defects using Mantis and TMS.
+- Coordinate with development teams and business users during testing and implementation activities.
+- Supported one-month onsite implementation and end-user training at Thomson Hospital, Malaysia.
 
 ---
 
-## ⚡ Fun Fact
+## 🎓 Education
 
-I enjoy finding bugs before users do 😄
+**Bachelor of Pharmacy (B.Pharm)**  
+Chhatrapati Shivaji University
+
+## 📜 Certification
+
+- Playwright Automation Testing with Java – Udemy
 
 ---
 
-⭐ *Actively looking for opportunities in Automation Testing | Let’s connect!*
+## 📈 What I'm Currently Learning
+
+- Advanced Playwright automation with Java.
+- API automation using REST Assured.
+- SQL and database testing.
+- AI-assisted test engineering.
+- CI/CD concepts and automation workflow improvements.
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Apurva Shivudkar](https://www.linkedin.com/in/apurva-shivudkar-11a1302a3)
+- 💻 GitHub: [Apurva0805](https://github.com/Apurva0805)
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
+
+I'm interested in opportunities related to **QA Engineering, Software Testing, Healthcare QA and Automation Testing**.
